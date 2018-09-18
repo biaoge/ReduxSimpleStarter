@@ -7,7 +7,7 @@ import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 
-const API_KEY = 'AIzaSyBsQT0vel3hsYRvq-46-r0whtZJlvekcpU';
+const API_KEY = 'Api key you get from Goole youtube API';
 
 // Create a new component. (This should produce some HTML)
 // A componet is a class
